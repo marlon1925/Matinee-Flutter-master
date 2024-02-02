@@ -1,4 +1,4 @@
-![image](https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/4872ef7d-b00a-4f11-9321-9bee24796c35)# Movies App made in Flutter with api data from TMDB
+# APLICACION DE PELICULAS
 
 This is an app that displays you details of movies that you can search for or browse.<br>
 
