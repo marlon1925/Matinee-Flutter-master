@@ -19,6 +19,5 @@ This is an app that displays you details of movies that you can search for or br
 ![image](https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/79f54233-5dcf-429d-915e-77c76527d3fa)
 ![image](https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/d1ee4fe5-f2a1-4222-954a-e44f937bd33d)
 ![image](https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/c0b3e7bb-489a-4722-9c6b-fde1c569a711)
-![image](https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/4d774ffc-c729-4db6-b4db-dd32995668e2)
 ![image](https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/a13da1ad-05c0-4e97-bcdc-6aff78453394)
 
