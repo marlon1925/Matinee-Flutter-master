@@ -1,7 +1,5 @@
 # APLICACION DE PELICULAS
 
-This is an app that displays you details of movies that you can search for or browse.<br>
-
 ## Integrantes :
 - Marlon Lalangui
 - Wilson Guayanay
