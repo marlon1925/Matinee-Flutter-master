@@ -21,5 +21,5 @@ This is an app that displays you details of movies that you can search for or br
 ![WhatsApp Image 2024-02-09 at 12 40 41 AM (2)](https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/9939370a-fd67-4021-8383-3cf96cc17853)
 ![WhatsApp Image 2024-02-09 at 12 40 41 AM (1)](https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/fce0032d-c840-4454-b9fc-de4122933de5)
 
-##APLICACION MOVIL Y ESCRITORIO
+## APLICACION MOVIL Y ESCRITORIO
 https://epnecuador-my.sharepoint.com/:f:/g/personal/marlon_lalangui_epn_edu_ec/EjY1Ok9ozpdPsng2_T6eAQoBbU2zkifySGKKArUoH5yyNQ?e=YRKF2p
