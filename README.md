@@ -10,11 +10,7 @@
 <table style="border:none;">
   <tr>
     <td><img src="https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/b12cd5e8-6de3-4e76-b8ec-50790a715c1c" alt="Descripción de la imagen 1"/></td>
-  </tr>
-  <tr>
     <td><img src="https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/0921f43f-5313-48c4-955f-dc4085098896" alt="Descripción de la imagen 2"/></td>
-  </tr>
-  <tr>
     <td><img src="https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/36dad015-d7f5-49b0-abc8-64925ac6f70b" alt="Descripción de la imagen 3"/></td>
   </tr>
 </table>
