@@ -23,6 +23,15 @@ Screenshots:<br>
 </tr></table>
 
 
+## Aplicacion Escritorio: 
+Screenshots:<br>
+<table style="border:none;"><tr>
+  <td><img src="https://github.com/marlon1925/Matinee-Flutter-master/assets/117754219/c5b8d77a-da93-4482-ab15-b51c5a40546b" alt="Screenshot 1"/></td>
+  <td><img src="https://github.com/marlon1925/Matinee-Flutter-master/assets/117754219/a7735be5-36c9-4ebb-8465-6735a7e746e5" alt="Screenshot 2"/></td>
+  <td><img src="https://github.com/marlon1925/Matinee-Flutter-master/assets/117754219/b516022d-ca6b-477d-8e69-975f8d6a9ac7" alt="Screenshot 3"/></td>
+</tr></table>
+
+
 
 
 ## APLICACION MOVIL Y ESCRITORIO
