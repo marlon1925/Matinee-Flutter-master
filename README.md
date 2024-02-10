@@ -7,16 +7,9 @@
 
 ## Capturas web: 
 
-Screenshots:<br>
-<table style="border:none;">
-  <tr>
-    <td><img src="https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/177d2abc-b14c-4847-9087-a6f2161344f3" alt="Screenshot 1"/></td>
-    <td><img src="https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/b0a05322-39c1-4154-ba2c-21ee4f9c189a" alt="Screenshot 2"/></td>
-    <td><img src="https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/b2ee3820-3cfb-4dda-8697-8e1b810c9895" alt="Screenshot 3"/></td>
-    <td><img src="https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/9939370a-fd67-4021-8383-3cf96cc17853" alt="Screenshot 4"/></td>
-    <td><img src="https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/fce0032d-c840-4454-b9fc-de4122933de5" alt="Screenshot 5"/></td>
-  </tr>
-</table>
+![image](https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/b12cd5e8-6de3-4e76-b8ec-50790a715c1c)
+![image](https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/0921f43f-5313-48c4-955f-dc4085098896)
+![image](https://github.com/marlon1925/Matinee-Flutter-master/assets/117753973/36dad015-d7f5-49b0-abc8-64925ac6f70b)
 
 
 
